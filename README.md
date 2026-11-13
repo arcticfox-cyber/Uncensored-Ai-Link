@@ -12,49 +12,49 @@ This is a curated list of publicly available resources from around the world, no
 
 ### 1. Hosted AI chat services
 
-| Service | What it offers | Link |
-|---|---|---|
-| Monarch | Uncensored AI chat with Cloud and browser-based Local modes; Local mode runs on-device and can work offline after model download. 18+ service; check its terms and privacy details. | [usemonarch.app](https://www.usemonarch.app/) |
-| Venice AI | Hosted AI chat with privacy-focused options and models marketed for fewer restrictions | [venice.ai](https://venice.ai/) |
-| FreedomGPT | Multi-model AI platform with a selection of models and creative tools | [freedomgpt.com](https://www.freedomgpt.com/) |
-| HuggingChat | Chat interface for trying models available through Hugging Face | [huggingface.co/chat](https://huggingface.co/chat/) |
-| OpenRouter | One API and model directory; availability and moderation depend on the selected model and provider | [openrouter.ai/models](https://openrouter.ai/models) |
-| OpenUncensored | A directory/router focused on uncensored and abliterated model options | [openuncensored.com](https://openuncensored.com/) |
-| Nonrestrictive AI Directory | Community-style directory of hosted chat services and related resources; verify each listing independently | [nonrestrictive.chat](https://nonrestrictive.chat/) |
+| Logo | Service | What it offers | Link |
+|:---:|---|---|---|
+| ![Monarch logo](https://www.google.com/s2/favicons?domain=usemonarch.app&sz=64) | Monarch | Uncensored AI chat with Cloud and browser-based Local modes; Local mode runs on-device and can work offline after model download. 18+ service; check its terms and privacy details. | [usemonarch.app](https://www.usemonarch.app/) |
+| ![Venice AI logo](https://www.google.com/s2/favicons?domain=venice.ai&sz=64) | Venice AI | Hosted AI chat with privacy-focused options and models marketed for fewer restrictions | [venice.ai](https://venice.ai/) |
+| ![FreedomGPT logo](https://www.google.com/s2/favicons?domain=freedomgpt.com&sz=64) | FreedomGPT | Multi-model AI platform with a selection of models and creative tools | [freedomgpt.com](https://www.freedomgpt.com/) |
+| ![HuggingChat logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | HuggingChat | Chat interface for trying models available through Hugging Face | [huggingface.co/chat](https://huggingface.co/chat/) |
+| ![OpenRouter logo](https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64) | OpenRouter | One API and model directory; availability and moderation depend on the selected model and provider | [openrouter.ai/models](https://openrouter.ai/models) |
+| ![OpenUncensored logo](https://www.google.com/s2/favicons?domain=openuncensored.com&sz=64) | OpenUncensored | A directory/router focused on uncensored and abliterated model options | [openuncensored.com](https://openuncensored.com/) |
+| ![Nonrestrictive AI Directory logo](https://www.google.com/s2/favicons?domain=nonrestrictive.chat&sz=64) | Nonrestrictive AI Directory | Community-style directory of hosted chat services and related resources; verify each listing independently | [nonrestrictive.chat](https://nonrestrictive.chat/) |
 
 ### 2. Run AI locally on your own computer
 
 These tools are model runners, desktop apps, or interfaces. They do not automatically make every model uncensored; behaviour depends on the model you install and its configuration.
 
-| Tool | What it does | Link |
-|---|---|---|
-| Ollama | Run and manage language models locally | [ollama.com](https://ollama.com/) |
-| LM Studio | Desktop interface for downloading and chatting with local models | [lmstudio.ai](https://lmstudio.ai/) |
-| Jan | Open-source desktop AI assistant with local model support | [jan.ai](https://jan.ai/) |
-| GPT4All | Desktop application for running supported local language models | [gpt4all.io](https://www.nomic.ai/gpt4all) |
-| llama.cpp | Efficient local inference engine, including GGUF models | [GitHub](https://github.com/ggml-org/llama.cpp) |
-| KoboldCpp | Local model runner with APIs and a focus on text-generation workflows | [GitHub](https://github.com/LostRuins/koboldcpp) |
-| SillyTavern | Frontend for connecting to local or remote text-generation backends | [GitHub](https://github.com/SillyTavern/SillyTavern) |
-| text-generation-webui | Web interface for running and experimenting with language models | [GitHub](https://github.com/oobabooga/text-generation-webui) |
-| LocalAI | Self-hosted, OpenAI-compatible local AI API | [localai.io](https://localai.io/) |
-| vLLM | High-throughput inference and serving engine for supported models | [vllm.ai](https://vllm.ai/) |
-| Open WebUI | Self-hosted web interface that can connect to local model providers | [open-webui.com](https://open-webui.com/) |
+| Logo | Tool | What it does | Link |
+|:---:|---|---|---|
+| ![Ollama logo](https://www.google.com/s2/favicons?domain=ollama.com&sz=64) | Ollama | Run and manage language models locally | [ollama.com](https://ollama.com/) |
+| ![LM Studio logo](https://www.google.com/s2/favicons?domain=lmstudio.ai&sz=64) | LM Studio | Desktop interface for downloading and chatting with local models | [lmstudio.ai](https://lmstudio.ai/) |
+| ![Jan logo](https://www.google.com/s2/favicons?domain=jan.ai&sz=64) | Jan | Open-source desktop AI assistant with local model support | [jan.ai](https://jan.ai/) |
+| ![GPT4All logo](https://www.google.com/s2/favicons?domain=nomic.ai&sz=64) | GPT4All | Desktop application for running supported local language models | [gpt4all.io](https://www.nomic.ai/gpt4all) |
+| ![llama.cpp logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | llama.cpp | Efficient local inference engine, including GGUF models | [GitHub](https://github.com/ggml-org/llama.cpp) |
+| ![KoboldCpp logo](https://www.google.com/s2/favicons?domain=koboldcpp.net&sz=64) | KoboldCpp | Local model runner with APIs and a focus on text-generation workflows | [GitHub](https://github.com/LostRuins/koboldcpp) |
+| ![SillyTavern logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | SillyTavern | Frontend for connecting to local or remote text-generation backends | [GitHub](https://github.com/SillyTavern/SillyTavern) |
+| ![text-generation-webui logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | text-generation-webui | Web interface for running and experimenting with language models | [GitHub](https://github.com/oobabooga/text-generation-webui) |
+| ![LocalAI logo](https://www.google.com/s2/favicons?domain=localai.io&sz=64) | LocalAI | Self-hosted, OpenAI-compatible local AI API | [localai.io](https://localai.io/) |
+| ![vLLM logo](https://www.google.com/s2/favicons?domain=vllm.ai&sz=64) | vLLM | High-throughput inference and serving engine for supported models | [vllm.ai](https://vllm.ai/) |
+| ![Open WebUI logo](https://www.google.com/s2/favicons?domain=open-webui.com&sz=64) | Open WebUI | Self-hosted web interface that can connect to local model providers | [open-webui.com](https://open-webui.com/) |
 
 ### 3. Find uncensored and low-refusal models
 
 Model behaviour varies by version, fine-tune, quantization, system prompt, and runtime. Check each model card, license, hardware requirements, and provenance before downloading.
 
-| Model source / collection | What to look for | Link |
-|---|---|---|
-| Hugging Face — Abliterated models | Community fine-tunes intended to reduce refusal behaviour | [Browse models](https://huggingface.co/models?search=abliterated) |
-| Hugging Face — Dolphin models | Dolphin fine-tunes and related model releases | [Cognitive Computations](https://huggingface.co/cognitivecomputations) |
-| Hugging Face — GGUF models | Quantized models compatible with tools such as llama.cpp and LM Studio | [Browse GGUF models](https://huggingface.co/models?search=GGUF) |
-| OpenRouter model catalogue | Compare hosted models and provider availability | [Browse models](https://openrouter.ai/models) |
+| Logo | Model source / collection | What to look for | Link |
+|:---:|---|---|---|
+| ![Hugging Face — Abliterated models logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | Hugging Face — Abliterated models | Community fine-tunes intended to reduce refusal behaviour | [Browse models](https://huggingface.co/models?search=abliterated) |
+| ![Hugging Face — Dolphin models logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | Hugging Face — Dolphin models | Dolphin fine-tunes and related model releases | [Cognitive Computations](https://huggingface.co/cognitivecomputations) |
+| ![Hugging Face — GGUF models logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | Hugging Face — GGUF models | Quantized models compatible with tools such as llama.cpp and LM Studio | [Browse GGUF models](https://huggingface.co/models?search=GGUF) |
+| ![OpenRouter model catalogue logo](https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64) | OpenRouter model catalogue | Compare hosted models and provider availability | [Browse models](https://openrouter.ai/models) |
 
 ### 4. More community resources
 
-- [Awesome Local AI](https://github.com/will-lamerton/awesome-local-ai-e) — community-maintained collection of local AI tools.
-- [Hugging Face](https://huggingface.co/) — model hosting, model cards, datasets, and community projects.
+- ![Awesome Local AI logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) [Awesome Local AI](https://github.com/will-lamerton/awesome-local-ai-e) — community-maintained collection of local AI tools.
+- ![Hugging Face logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) [Hugging Face](https://huggingface.co/) — model hosting, model cards, datasets, and community projects.
 
 ## Choosing an option
 
