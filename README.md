@@ -14,6 +14,7 @@ This is a curated list of publicly available resources from around the world, no
 
 | Service | What it offers | Link |
 |---|---|---|
+| Monarch | Uncensored AI chat with Cloud and browser-based Local modes; Local mode runs on-device and can work offline after model download. 18+ service; check its terms and privacy details. | [usemonarch.app](https://www.usemonarch.app/) |
 | Venice AI | Hosted AI chat with privacy-focused options and models marketed for fewer restrictions | [venice.ai](https://venice.ai/) |
 | FreedomGPT | Multi-model AI platform with a selection of models and creative tools | [freedomgpt.com](https://www.freedomgpt.com/) |
 | HuggingChat | Chat interface for trying models available through Hugging Face | [huggingface.co/chat](https://huggingface.co/chat/) |
@@ -57,7 +58,7 @@ Model behaviour varies by version, fine-tune, quantization, system prompt, and r
 
 ## Choosing an option
 
-- **Quick browser access:** Start with a hosted service such as Venice AI or FreedomGPT.
+- **Quick browser access:** Start with a hosted service such as Monarch, Venice AI, or FreedomGPT.
 - **Local and offline use:** Explore Ollama, LM Studio, Jan, or llama.cpp with a compatible model.
 - **Advanced configuration:** Try KoboldCpp, SillyTavern, text-generation-webui, or LocalAI.
 - **Model discovery:** Check Hugging Face model cards and compare model/provider details before use.
