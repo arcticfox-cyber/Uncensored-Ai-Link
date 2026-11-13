@@ -20,7 +20,7 @@ This is a curated list of publicly available resources from around the world, no
 | ![HuggingChat logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | HuggingChat | Chat interface for trying models available through Hugging Face | [huggingface.co/chat](https://huggingface.co/chat/) |
 | ![OpenRouter logo](https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64) | OpenRouter | One API and model directory; availability and moderation depend on the selected model and provider | [openrouter.ai/models](https://openrouter.ai/models) |
 | ![OpenUncensored logo](https://www.google.com/s2/favicons?domain=openuncensored.com&sz=64) | OpenUncensored | A directory/router focused on uncensored and abliterated model options | [openuncensored.com](https://openuncensored.com/) |
-| ![Nonrestrictive AI Directory logo](https://www.google.com/s2/favicons?domain=nonrestrictive.chat&sz=64) | Nonrestrictive AI Directory | Community-style directory of hosted chat services and related resources; verify each listing independently | [nonrestrictive.chat](https://nonrestrictive.chat/) |
+| ![Nonrestrictive AI Directory logo](https://icons.duckduckgo.com/ip3/nonrestrictive.chat.ico) | Nonrestrictive AI Directory | Community-style directory of hosted chat services and related resources; verify each listing independently | [nonrestrictive.chat](https://nonrestrictive.chat/) |
 
 ### 2. Run AI locally on your own computer
 
@@ -38,7 +38,7 @@ These tools are model runners, desktop apps, or interfaces. They do not automati
 | ![text-generation-webui logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | text-generation-webui | Web interface for running and experimenting with language models | [GitHub](https://github.com/oobabooga/text-generation-webui) |
 | ![LocalAI logo](https://www.google.com/s2/favicons?domain=localai.io&sz=64) | LocalAI | Self-hosted, OpenAI-compatible local AI API | [localai.io](https://localai.io/) |
 | ![vLLM logo](https://www.google.com/s2/favicons?domain=vllm.ai&sz=64) | vLLM | High-throughput inference and serving engine for supported models | [vllm.ai](https://vllm.ai/) |
-| ![Open WebUI logo](https://www.google.com/s2/favicons?domain=open-webui.com&sz=64) | Open WebUI | Self-hosted web interface that can connect to local model providers | [open-webui.com](https://open-webui.com/) |
+| ![Open WebUI logo](https://raw.githubusercontent.com/open-webui/open-webui/main/static/favicon.png) | Open WebUI | Self-hosted web interface that can connect to local model providers | [openwebui.com](https://openwebui.com/) |
 
 ### 3. Find uncensored and low-refusal models
 
