@@ -1,110 +1,128 @@
+<div align="center">
+
 # Uncensored AI Link
 
-**A curated directory of uncensored and low-refusal AI services, local AI tools, and open-weight models.**
+**Discover hosted AI services, local runtimes, and open-weight models.**
 
-Uncensored AI Link is an Arctic Fox Cyber project focused on giving users a clear starting point for exploring configurable AI systems, local models, and multi-model workflows.
+A curated resource directory by **Arctic Fox Cyber** for exploring configurable AI systems and multi-model workflows.
 
-> **Project status:** Early stage. This repository currently contains documentation and a curated resource directory; the application source code has not yet been published.
+[![Directory](https://img.shields.io/badge/Directory-Curated-7C3AED?style=for-the-badge)](#global-ai-directory)
+[![Status](https://img.shields.io/badge/Status-Early%20Stage-F59E0B?style=for-the-badge)](#project-status)
+[![License](https://img.shields.io/badge/License-See%20Repository-64748B?style=for-the-badge)](#)
 
-## Global Uncensored AI Directory
+</div>
 
-This is a curated list of publicly available resources from around the world, not a guarantee that every service is unrestricted or available in every country. Features, pricing, model access, and usage policies can change. Always review the provider's current terms and privacy policy.
+---
 
-### 1. Hosted AI chat services
+## Overview
 
-| Logo | Service | What it offers | Link |
-|:---:|---|---|---|
-| ![Monarch logo](https://www.google.com/s2/favicons?domain=usemonarch.app&sz=64) | Monarch | Uncensored AI chat with Cloud and browser-based Local modes; Local mode runs on-device and can work offline after model download. 18+ service; check its terms and privacy details. | [usemonarch.app](https://www.usemonarch.app/) |
-| ![Venice AI logo](https://www.google.com/s2/favicons?domain=venice.ai&sz=64) | Venice AI | Hosted AI chat with privacy-focused options and models marketed for fewer restrictions | [venice.ai](https://venice.ai/) |
-| ![FreedomGPT logo](https://www.google.com/s2/favicons?domain=freedomgpt.com&sz=64) | FreedomGPT | Multi-model AI platform with a selection of models and creative tools | [freedomgpt.com](https://www.freedomgpt.com/) |
-| ![HuggingChat logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | HuggingChat | Chat interface for trying models available through Hugging Face | [huggingface.co/chat](https://huggingface.co/chat/) |
-| ![OpenRouter logo](https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64) | OpenRouter | One API and model directory; availability and moderation depend on the selected model and provider | [openrouter.ai/models](https://openrouter.ai/models) |
-| ![OpenUncensored logo](https://www.google.com/s2/favicons?domain=openuncensored.com&sz=64) | OpenUncensored | A directory/router focused on uncensored and abliterated model options | [openuncensored.com](https://openuncensored.com/) |
-| ![Nonrestrictive AI Directory logo](https://icons.duckduckgo.com/ip3/nonrestrictive.chat.ico) | Nonrestrictive AI Directory | Community-style directory of hosted chat services and related resources; verify each listing independently | [nonrestrictive.chat](https://nonrestrictive.chat/) |
+Uncensored AI Link brings useful AI resources together in one place: hosted chat platforms, tools for running models locally, model collections, and community directories.
 
-### 2. Run AI locally on your own computer
+> **Project status:** This repository currently contains a curated resource directory and documentation. Application source code has not yet been published.
 
-These tools are model runners, desktop apps, or interfaces. They do not automatically make every model uncensored; behaviour depends on the model you install and its configuration.
+## Global AI Directory
 
-| Logo | Tool | What it does | Link |
-|:---:|---|---|---|
-| ![Ollama logo](https://www.google.com/s2/favicons?domain=ollama.com&sz=64) | Ollama | Run and manage language models locally | [ollama.com](https://ollama.com/) |
-| ![LM Studio logo](https://www.google.com/s2/favicons?domain=lmstudio.ai&sz=64) | LM Studio | Desktop interface for downloading and chatting with local models | [lmstudio.ai](https://lmstudio.ai/) |
-| ![Jan logo](https://www.google.com/s2/favicons?domain=jan.ai&sz=64) | Jan | Open-source desktop AI assistant with local model support | [jan.ai](https://jan.ai/) |
-| ![GPT4All logo](https://www.google.com/s2/favicons?domain=nomic.ai&sz=64) | GPT4All | Desktop application for running supported local language models | [gpt4all.io](https://www.nomic.ai/gpt4all) |
-| ![llama.cpp logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | llama.cpp | Efficient local inference engine, including GGUF models | [GitHub](https://github.com/ggml-org/llama.cpp) |
-| ![KoboldCpp logo](https://www.google.com/s2/favicons?domain=koboldcpp.net&sz=64) | KoboldCpp | Local model runner with APIs and a focus on text-generation workflows | [GitHub](https://github.com/LostRuins/koboldcpp) |
-| ![SillyTavern logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | SillyTavern | Frontend for connecting to local or remote text-generation backends | [GitHub](https://github.com/SillyTavern/SillyTavern) |
-| ![text-generation-webui logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) | text-generation-webui | Web interface for running and experimenting with language models | [GitHub](https://github.com/oobabooga/text-generation-webui) |
-| ![LocalAI logo](https://www.google.com/s2/favicons?domain=localai.io&sz=64) | LocalAI | Self-hosted, OpenAI-compatible local AI API | [localai.io](https://localai.io/) |
-| ![vLLM logo](https://www.google.com/s2/favicons?domain=vllm.ai&sz=64) | vLLM | High-throughput inference and serving engine for supported models | [vllm.ai](https://vllm.ai/) |
-| ![Open WebUI logo](https://raw.githubusercontent.com/open-webui/open-webui/main/static/favicon.png) | Open WebUI | Self-hosted web interface that can connect to local model providers | [openwebui.com](https://openwebui.com/) |
+A selection of hosted services and resources from across the AI ecosystem. “Uncensored” is not a standardized certification: features, model behaviour, moderation, pricing, and regional availability vary by provider.
 
-### 3. Find uncensored and low-refusal models
+### 01 — Hosted AI services
 
-Model behaviour varies by version, fine-tune, quantization, system prompt, and runtime. Check each model card, license, hardware requirements, and provenance before downloading.
+| Service | Overview | Website |
+|---|---|---|
+| **Monarch** | Hosted AI chat with cloud and browser-based local modes. Review its age requirements and privacy terms. | [Visit ↗](https://www.usemonarch.app/) |
+| **Venice AI** | Hosted AI chat with privacy-focused options and models marketed for fewer restrictions. | [Visit ↗](https://venice.ai/) |
+| **FreedomGPT** | Multi-model AI platform with a range of models and creative tools. | [Visit ↗](https://www.freedomgpt.com/) |
+| **HuggingChat** | Chat interface for trying models available through Hugging Face. | [Visit ↗](https://huggingface.co/chat/) |
+| **OpenRouter** | Model directory and unified API; availability and moderation depend on the selected model and provider. | [Explore ↗](https://openrouter.ai/models) |
+| **OpenUncensored** | Directory and routing resource focused on uncensored and abliterated model options. | [Visit ↗](https://openuncensored.com/) |
+| **Nonrestrictive AI Directory** | Community-style directory of hosted chat services and related resources. Verify listings independently. | [Visit ↗](https://nonrestrictive.chat/) |
 
-| Logo | Model source / collection | What to look for | Link |
-|:---:|---|---|---|
-| ![Hugging Face — Abliterated models logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | Hugging Face — Abliterated models | Community fine-tunes intended to reduce refusal behaviour | [Browse models](https://huggingface.co/models?search=abliterated) |
-| ![Hugging Face — Dolphin models logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | Hugging Face — Dolphin models | Dolphin fine-tunes and related model releases | [Cognitive Computations](https://huggingface.co/cognitivecomputations) |
-| ![Hugging Face — GGUF models logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) | Hugging Face — GGUF models | Quantized models compatible with tools such as llama.cpp and LM Studio | [Browse GGUF models](https://huggingface.co/models?search=GGUF) |
-| ![OpenRouter model catalogue logo](https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64) | OpenRouter model catalogue | Compare hosted models and provider availability | [Browse models](https://openrouter.ai/models) |
+### 02 — Run AI locally
 
-### 4. More community resources
+These applications and runtimes let you run or connect to models on your own hardware. They do not automatically make every model uncensored; behaviour depends on the model and its configuration.
 
-- ![Awesome Local AI logo](https://www.google.com/s2/favicons?domain=github.com&sz=64) [Awesome Local AI](https://github.com/will-lamerton/awesome-local-ai-e) — community-maintained collection of local AI tools.
-- ![Hugging Face logo](https://www.google.com/s2/favicons?domain=huggingface.co&sz=64) [Hugging Face](https://huggingface.co/) — model hosting, model cards, datasets, and community projects.
+| Tool | What it does | Website |
+|---|---|---|
+| **Ollama** | Download, run, and manage language models locally. | [ollama.com](https://ollama.com/) |
+| **LM Studio** | Desktop interface for downloading and chatting with local models. | [lmstudio.ai](https://lmstudio.ai/) |
+| **Jan** | Open-source desktop AI assistant with local model support. | [jan.ai](https://jan.ai/) |
+| **GPT4All** | Desktop application for running supported local language models. | [gpt4all.io](https://www.nomic.ai/gpt4all) |
+| **llama.cpp** | Efficient local inference engine, including support for GGUF models. | [GitHub](https://github.com/ggml-org/llama.cpp) |
+| **KoboldCpp** | Local model runner with APIs and text-generation workflows. | [GitHub](https://github.com/LostRuins/koboldcpp) |
+| **SillyTavern** | Frontend for connecting to local or remote text-generation backends. | [GitHub](https://github.com/SillyTavern/SillyTavern) |
+| **text-generation-webui** | Web interface for running and experimenting with language models. | [GitHub](https://github.com/oobabooga/text-generation-webui) |
+| **LocalAI** | Self-hosted, OpenAI-compatible local AI API. | [localai.io](https://localai.io/) |
+| **vLLM** | High-throughput inference and serving engine for supported models. | [vllm.ai](https://vllm.ai/) |
+| **Open WebUI** | Self-hosted web interface that connects to local model providers. | [openwebui.com](https://openwebui.com/) |
 
-## Choosing an option
+### 03 — Model discovery
 
-- **Quick browser access:** Start with a hosted service such as Monarch, Venice AI, or FreedomGPT.
-- **Local and offline use:** Explore Ollama, LM Studio, Jan, or llama.cpp with a compatible model.
-- **Advanced configuration:** Try KoboldCpp, SillyTavern, text-generation-webui, or LocalAI.
-- **Model discovery:** Check Hugging Face model cards and compare model/provider details before use.
+Model behaviour can differ by version, fine-tune, quantization, system prompt, and runtime. Always check the model card, license, hardware requirements, and source before downloading.
 
-## Important notes
+| Collection | What to explore | Resource |
+|---|---|---|
+| **Abliterated models** | Community fine-tunes intended to reduce refusal behaviour. | [Browse on Hugging Face](https://huggingface.co/models?search=abliterated) |
+| **Dolphin models** | Dolphin fine-tunes and related model releases. | [Cognitive Computations](https://huggingface.co/cognitivecomputations) |
+| **GGUF models** | Quantized models compatible with tools such as llama.cpp and LM Studio. | [Browse on Hugging Face](https://huggingface.co/models?search=GGUF) |
+| **OpenRouter catalogue** | Compare hosted models and provider availability. | [Browse models](https://openrouter.ai/models) |
 
-- “Uncensored” is not a standardized technical certification. A service may still apply safety rules, moderation, account limits, or regional restrictions.
-- Hosted services may process prompts on remote servers. Read their privacy policies before sharing sensitive information.
-- Local inference can improve privacy, but downloaded models and extensions still need to be checked for security and licensing.
-- Use AI tools lawfully and responsibly. This directory is for research, development, and legitimate creative or technical work.
-- Links are provided for convenience. Arctic Fox Cyber does not own, operate, or endorse every listed third-party service.
+### 04 — Community resources
 
-## Project Goals
+- [Awesome Local AI](https://github.com/will-lamerton/awesome-local-ai-e) — community-maintained collection of local AI tools.
+- [Hugging Face](https://huggingface.co/) — model hosting, model cards, datasets, and community projects.
 
-- **Local AI models** — support running selected models locally.
-- **Custom personalities** — allow configurable assistant behaviour and response styles.
-- **Multi-AI support** — bring multiple models or providers into one workflow.
-- **User control** — make configuration more flexible and transparent.
+## Quick selection guide
 
-These are project goals, not a claim that every feature is currently implemented.
+| Your goal | Start here |
+|---|---|
+| **Use AI in a browser** | Monarch, Venice AI, or FreedomGPT |
+| **Run models offline** | Ollama, LM Studio, Jan, or llama.cpp |
+| **Configure advanced workflows** | KoboldCpp, SillyTavern, text-generation-webui, or LocalAI |
+| **Discover models** | Hugging Face model cards and OpenRouter |
 
-## Repository
+## Safety, privacy & responsible use
+
+- “Uncensored” is not a standardized technical certification. Services may still apply moderation, safety rules, account limits, or regional restrictions.
+- Hosted services may process prompts on remote servers. Read the provider's privacy policy before sharing sensitive information.
+- Local inference can improve privacy, but downloaded models, plugins, and extensions should still be checked for security and licensing.
+- Review each model's license and terms before using or redistributing it.
+- Use these resources lawfully and responsibly. This directory is intended for research, development, and legitimate creative or technical work.
+- Links are provided for convenience. Arctic Fox Cyber does not own, operate, or endorse every third-party service listed here.
+
+## Project goals
+
+The longer-term direction for Uncensored AI Link includes:
+
+- **Local model support** — make it easier to work with selected models on-device.
+- **Custom personalities** — configurable assistant behaviour and response styles.
+- **Multi-AI workflows** — bring multiple models and providers into one workflow.
+- **User control** — provide flexible and transparent configuration.
+
+These are planned goals, not claims that these features are currently implemented.
+
+## Project status
+
+This repository currently contains the README resource directory. There is no application to install or run yet.
 
 ```text
 Uncensored-Ai-Link/
 └── README.md
 ```
 
-## Getting Started
+Installation and usage instructions will be added when application source code and a supported runtime are published.
 
-Application installation and usage instructions will be added when the application source code and supported runtime are published. For now, use the directory above to explore third-party resources.
+## Contributing
 
-## Development
-
-The project is under development. Contributions, corrections to links, and suggestions for additional legitimate AI resources are welcome.
+Suggestions and corrections are welcome. Before proposing a new listing, check that the resource is publicly accessible and provide its official website or repository.
 
 ## Project
+
+<div align="center">
 
 **Uncensored AI Link**  
 Part of **Arctic Fox Cyber**
 
-- Repository: https://github.com/arcticfox-cyber/Uncensored-Ai-Link
+[GitHub Repository](https://github.com/arcticfox-cyber/Uncensored-Ai-Link)
 
----
+*Building configurable AI tools.*
 
-<p align="center">
-  <b>Arctic Fox Cyber</b><br>
-  Building configurable AI tools.
-</p>
+</div>
